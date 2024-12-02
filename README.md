@@ -13,8 +13,8 @@ This project was created as part of an extra credit project for **Berkeley's Phy
 ## **How to Run the Labs**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/kjeelani/thermal-synthesizer.git
+   cd thermal-synthesizer
    ```
 
 2. Create a virtual environment:
