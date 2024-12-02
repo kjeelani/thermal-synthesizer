@@ -46,4 +46,4 @@ This project was created as part of an extra credit project for **Berkeley's Phy
 
 ## **Demonstration**
 **Thermal Synthesizer with Low Temperatures**:  
-[![Thermal Synthesizer Demo](https://img.youtube.com/vi/<video-id>/0.jpg)](https://github.com/user-attachments/assets/5745fa2e-7f59-4db5-b915-b5c79dfbfa13)
+[![Thermal Synthesizer Demo](https://github.com/user-attachments/assets/5745fa2e-7f59-4db5-b915-b5c79dfbfa13)](https://github.com/user-attachments/assets/5745fa2e-7f59-4db5-b915-b5c79dfbfa13)
